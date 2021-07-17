@@ -1,0 +1,55 @@
+body {
+	background-color: #000000;
+}
+/* name logo */
+.namelogo {
+  text-align: center;
+}
+/* navbar toggler & menu button */
+.navbar-toggler {
+  margin-right: 10px;
+  margin-left: 5px;
+  background-color: #ee34d2;
+  border-radius: 50%;
+  opacity: .7;
+}
+#navbarNav {
+  margin: 30px;
+  text-align: center;
+  font-style: italic;
+}
+#navbarNav a {
+  color: #ff00cc;
+}
+#navbarNav a:hover {
+  color: #50bfe6;
+}
+.punchline {
+  color: #ffffff;
+}
+#facebooklink {
+  margin-right: 10px;
+}
+.punchline {
+  font-style: italic;
+}
+
+/* Main Content */
+.row {
+  width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 10px;
+}
+.row img {
+    border: 2px solid aqua;
+  }
+.row div {
+  margin-top: 20px;
+}
+.row .landscape {
+  margin-bottom: 20px;
+}
+
+
+/* footer */
